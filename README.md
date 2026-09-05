@@ -40,4 +40,4 @@ This repository releases the complete evidence chain of the systematic review so
 
 ## License & citation
 
-Data and documentation: CC BY 4.0. Code: MIT. Please cite the paper above (and this repository) when reusing the corpus or audit instruments. Versioned archive: Zenodo DOI **[to be added]**.
+Data and documentation: CC BY 4.0. Code: MIT. Please cite the paper above (and this repository) when reusing the corpus or audit instruments. Versioned archive: v1.0, Zenodo DOI [10.5281/zenodo.22325911](https://doi.org/10.5281/zenodo.22325911).
