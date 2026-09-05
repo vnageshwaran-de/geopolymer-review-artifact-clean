@@ -1,0 +1,18 @@
+ID,Horizon,Priority,Gap,Acceptance test
+I1,0-2y,FAIR benchmark (seeded by this artifact),G6,3 groups on identical splits
+I2,0-2y,Calibration by default (conformal),G1,coverage metrics beside R2
+I3,0-2y,Applicability-domain reporting,"G2,G7",validity domain declared per claim
+I4,0-2y,Terminology discipline (Type I-V; sim/physical),"G3,G5",claim inflation falls measurably
+I5,0-2y,Time-split meta-validation,G7,forward-error estimate published
+E1,2-5y,Physics-constrained surrogates in design loops,G3,constraint-violation audit + ablation
+E2,2-5y,ML-LCA with factor-uncertainty propagation,G4,ISO-consistent boundaries on claims
+E3,2-5y,Cross-laboratory round-robin,"G2,G7",public blind-set results
+E4,2-5y,Early-age updating as loop enabler,"G5,G1",validated qualification acceleration
+E5,2-5y,Augmentation adjudication,"G9,G6",real-only-test parity shown
+F1,5-10y,First geopolymer self-driving lab (one-part entry),G5,">=2 physical closed cycles, calibrated"
+F2,5-10y,Curing/durability digital twin pilot,"G5,G3",twin-vs-measured on pilot element
+F3,5-10y,LLM/agentic support (prospective),"G5,G4,G6",audited agent-extracted inventories
+F4,5-10y,Transferable foundation models,"G2,G6",certified out-of-range bounds
+D1,parallel,Performance-based acceptance protocols,"G8,G1",one AI-designed mix approved (pilot)
+D2,parallel,Digital material passports,"G8,G4,G6",passport schema in a procurement pilot
+D3,parallel,Demonstration ladder w/ model audits,"G8,G7",published model-vs-reality trail

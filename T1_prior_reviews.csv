@@ -1,0 +1,7 @@
+Review,Year/venue,Corpus & window,Trust audit,Physics audit,LCA/env audit,Deployment,PRISMA
+Nguyen et al.,"2025, Materials Today Sustainability","184 studies, to Dec 2023",partial (data quality),no,no,no,yes
+Zheng et al.,"2025, J. Building Engineering",narrative,interpretability only,dual-driven framing,no,no,no
+Rathnayaka et al.,"2024, Constr. Build. Mater.",FA-GPC strength only,no,no,no,no,partial
+Ali et al.,"2024, Constr. Build. Mater.",multi-concrete SLR,no,no,no,no,yes
+Alaneme et al.,"2023, SN Applied Sciences",GPC production,no,no,no,no,no
+THIS REVIEW,2026,"729 studies, to Aug 2026",8-dim scorecard,5-level claimed-vs-verified audit,evidentiary ladder incl. ISO check,D-axis + roadmap,yes + 100% dual screen

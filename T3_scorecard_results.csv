@@ -1,0 +1,11 @@
+Scorecard dimension,Core question,Studies (n),% of 677
+XAI,Why did the model predict this?,197,29.1
+UQ,How uncertain is the prediction?,42,6.2
+calibration,Is stated confidence meaningful?,9,1.3
+robustness,Stable under perturbation? (deep tier only),0,0.0
+OOD/transfer,Does it survive unseen chemistry?,58,8.6
+external validation,Was genuinely independent data used?,27,4.0
+physical consistency,Are outputs chemically plausible? (deep tier only),0,0.0
+reproducibility,Could another group repeat this?,7,1.0
+none detected,No trust practice on any dimension,407,60.1
+# Unique studies n=677 (title-abstract-keyword detection; lower bounds - see Sections 8 and 21 and Table S9). Robustness and physical-consistency were codable only in the full-text deep tier.

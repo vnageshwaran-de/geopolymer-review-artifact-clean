@@ -1,0 +1,24 @@
+doi,claimed_type,verified_type,note
+10.1007/s43939-026-00821-1,III-claimed,II-verified,"oxide ratios as input features only; ""chemistry-informed"" = feature choice"
+10.1016/j.cemconcomp.2024.105723,III-claimed,III-VERIFIED,knowledge graph structurally guides ML + MOO (strength/cost/carbon); genuine knowledge-guided design
+10.1016/j.wasman.2025.115139,V-candidate,V-loose,"ML and DFT run in parallel; DFT interprets, does not constrain the model"
+10.1016/j.conbuildmat.2026.146774,IV-claimed,I/II-verified,no physics; GP-guided boundary augmentation - BUT best OOD protocol in corpus (18% out-of-range test)
+10.1007/s42107-026-01647-1,V-candidate,I-verified,mechanisms motivational only; plain 4-model comparison
+10.1016/j.jobe.2024.110295,V-candidate,II-verified,mechanism from experiments/characterization; ML is feature analysis
+10.1016/j.cemconcomp.2025.106364,III-claimed,V-VERIFIED,CIML: ML integrated with thermodynamic modelling for one-part AAM
+10.1007/s40996-026-02191-3,IV-claimed,UNVERIFIED-FT,physics entry point unclear from abstract; likely inflation
+10.1016/j.jclepro.2024.143974,V-candidate,II-verified,ML clusters AE signals; physics via measurement not model
+10.1016/j.jobe.2025.113820,IV-claimed,IV-VERIFIED,PINN solves inverse diffusion problem (PDE-constrained) for chloride Dc
+10.1016/j.autcon.2025.106667,III-claimed,III-VERIFIED,LLM-automated knowledge-graph construction (52h to 1h) applied to UHPG design - FIRST LLM TOUCHPOINT IN CORPUS
+10.1007/s10973-026-15494-4,V-candidate,I/II-verified,thermal experiments + predictive ML; no mechanistic coupling
+10.1038/s41598-025-27229-w,IV-claimed,CLAIMED-FT-SKEPTICAL,"TPINN+ST-GNN multi-degradation; buzzword density high, constraints unspecified - hostile-reviewer flag"
+10.11591/ijict.v14i3.pp822-829,IV-claimed,UNVERIFIABLE,abstract nearly content-free; quality concern
+10.1016/j.engappai.2025.113254,III-claimed,IV-VERIFIED,KENN: governing equations embedded in NN + NSGA-II over strength/cost/CO2/energy
+10.1016/j.cscm.2025.e05407,V-candidate,II-verified,multi-output RF; notable: embodied carbon as predicted output (885 mixes)
+10.1016/j.aei.2025.103982,III-claimed,III-VERIFIED,knowledge graph guides variable selection + interpretation (PMV-IEL)
+10.12989/scs.2025.56.6.499,V-candidate,II-verified,GMM phase clustering of nanoindentation data
+10.1016/j.conbuildmat.2021.126103,III-claimed,II/III-verified,chemistry-based feature engineering (the 2022 paper that popularized the label)
+10.1016/j.compositesb.2021.108801,V-candidate,V-VERIFIED,ML + global sensitivity + GEMS thermodynamics (2021 - earliest Type V)
+10.1016/j.conbuildmat.2022.127557,V-candidate,IV/V-VERIFIED,"RF with topological-network + thermodynamic constraints, 26 precursors"
+10.1016/j.conbuildmat.2023.131519,V-candidate,I/II-verified,plain RF; mechanisms motivational
+(dup-AEI-row),III-claimed,DUPLICATE,fallback duplicate of 10.1016/j.aei.2025.103982 with mismatched abstract - data note

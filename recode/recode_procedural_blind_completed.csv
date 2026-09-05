@@ -1,0 +1,71 @@
+sample_id,M,T,P,E,flags,note
+RC01,mixed/other-AAM,inverse-design,I,none-explicit,,
+RC02,slag,prediction,I,none-explicit,XAI,
+RC03,mixed/other-AAM,prediction,I,none-explicit,,
+RC04,mixed/other-AAM,prediction,I,none-explicit,,
+RC05,slag,prediction,I,none-explicit,,
+RC06,fly-ash,prediction,II,durability,,claims physics-informed; abstract demonstrates none
+RC07,mixed/other-AAM,prediction,I,none-explicit,OOD,transfer learning
+RC08,fly-ash,NO-ML,I,waste-valorization;durability,,no ML method detectable in abstract
+RC09,mixed/other-AAM,prediction,I,none-explicit,XAI,
+RC10,mixed/other-AAM,prediction,I,none-explicit,XAI,
+RC11,mixed/other-AAM,prediction,I,waste-valorization,,
+RC12,mixed/other-AAM,prediction,I,none-explicit,,GUI released
+RC13,stabilized-soil,prediction,I,none-explicit,,
+RC14,slag;mixed/other-AAM,prediction,I,none-explicit,,
+RC15,mixed/other-AAM,prediction,I,none-explicit,,
+RC16,mixed/other-AAM,prediction,I,none-explicit,,composition inference
+RC17,fly-ash,NO-ML,I,durability,,no ML method detectable
+RC18,mixed/other-AAM,prediction,I,none-explicit,,
+RC19,biomass-ash,prediction,I,none-explicit,,
+RC20,FA-slag;metakaolin/clay;recycled-aggregate,optimization,I,waste-valorization,,
+RC21,OUT-OF-SCOPE,classification,I,none-explicit,,remote sensing damage detection - no geopolymer content
+RC22,one-part;slag,prediction,II,none-explicit,XAI,
+RC23,slag,multi-objective-optimization,I,carbon,,
+RC24,FA-slag,prediction,I,LCA;waste-valorization,,
+RC25,recycled-aggregate,prediction,I,waste-valorization,,
+RC26,slag,prediction,I,none-explicit,,ML presence uncertain from abstract
+RC27,fly-ash,prediction,II,none-explicit,,
+RC28,OUT-OF-SCOPE,classification,I,none-explicit,,remote sensing - no geopolymer content
+RC29,mixed/other-AAM,prediction,I,none-explicit,,
+RC30,FA-slag,inverse-design,I,none-explicit,UQ;XAI;calibration,conformal
+RC31,fly-ash,prediction,I,none-explicit,XAI,
+RC32,biomass-ash,prediction,I,waste-valorization,,
+RC33,fly-ash,prediction,I,durability,,
+RC34,fly-ash,prediction,I,none-explicit,XAI,
+RC35,mixed/other-AAM,prediction,II,none-explicit,,
+RC36,fly-ash,multi-objective-optimization,I,carbon;LCA,,
+RC37,mixed/other-AAM,prediction,I,none-explicit,,
+RC38,fly-ash,microstructure/image-analysis,V,none-explicit,,"DFT+ML potentials, digital twin recon"
+RC39,FA-slag,prediction,I,waste-valorization,ext-val,
+RC40,fly-ash,prediction,I,none-explicit,,
+RC41,slag,multi-objective-optimization,I,none-explicit,UQ;XAI,
+RC42,mixed/other-AAM,prediction,I,none-explicit,,title-only
+RC43,mixed/other-AAM,optimization,II,none-explicit,,
+RC44,mixed/other-AAM,prediction,I,none-explicit,XAI,
+RC45,mixed/other-AAM,prediction,I,none-explicit,,
+RC46,stabilized-soil,prediction,I,durability,,
+RC47,slag;biomass-ash,optimization,I,waste-valorization,,
+RC48,mixed/other-AAM,prediction,I,none-explicit,,
+RC49,mixed/other-AAM,optimization,I,none-explicit,,non-construction function (fermentation)
+RC50,mixed/other-AAM,prediction,I,none-explicit,,
+RC51,mixed/other-AAM,prediction,I,none-explicit,ext-val,own test project verification
+RC52,fly-ash;metakaolin/clay,NO-ML,I,durability,,no ML detectable
+RC53,FA-slag,prediction,II,none-explicit,,
+RC54,slag,prediction,II,carbon,,
+RC55,slag,prediction,II,none-explicit,,
+RC56,mixed/other-AAM,prediction,I,none-explicit,UQ,title-only
+RC57,mixed/other-AAM,prediction,II,none-explicit,,
+RC58,slag,prediction,I,none-explicit,,
+RC59,mixed/other-AAM,optimization,I,none-explicit,,title-only
+RC60,mixed/other-AAM,prediction,V,none-explicit,,FE+ML
+RC61,slag,prediction,I,carbon,,
+RC62,fly-ash,prediction,I,none-explicit,,
+RC63,slag,prediction,II,none-explicit,XAI,
+RC64,slag;stabilized-soil,prediction,II,none-explicit,,
+RC65,mixed/other-AAM,prediction,II,none-explicit,XAI,
+RC66,mixed/other-AAM,prediction,I,none-explicit,XAI,
+RC67,fly-ash,prediction,I,none-explicit,,
+RC68,fly-ash,prediction,I,waste-valorization,,
+RC69,recycled-aggregate,prediction,I,durability;waste-valorization,XAI,
+RC70,mixed/other-AAM,REVIEW,I,none-explicit,,review article - should be Context

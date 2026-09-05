@@ -1,0 +1,5 @@
+Tension,Evidence A,Evidence B,Resolution path
+Generative augmentation,"GAN/VAE enables reliable design (Gu 2025, R2 0.96)",CTGAN degrades accuracy/generalization (Liu 2025),G9 benchmark: real-only tests + constraint checks
+SHAP consensus,Convergent importance rankings across dozens of studies,Same source databases underlie them; divergences track datasets,source-stratified importance analysis
+Algorithm supremacy,"Mutually incompatible ""best model"" claims",Invalid cross-dataset comparisons; in-study margins small,shared benchmark (G6)
+Sustainability ambition vs foundation,25 studies optimize carbon,2 assess it (ISO-grade); factor uncertainty never propagated,ML-LCA coupling (E2)

@@ -1,0 +1,441 @@
+id|source|year|venue|title|decision
+SD1|ScienceDirect|2025|Engineering Applications of Artificial Intelligence|Artificial intelligence-driven models for predicting mechanical properties of low-emission microwave-cured geopolymer mortar|INCLUDE
+SD2|ScienceDirect|2023|Journal of Building Engineering|Optimization design for alkali-activated slag-fly ash geopolymer concrete based on artificial intelligence considering compressive strength, cost, and carbon emission|INCLUDE
+SD3|ScienceDirect|2024|CMES - Computer Modeling in Engineering and Sciences|Artificial Intelligence Prediction of One-Part Geopolymer Compressive Strength for Sustainable Concrete|INCLUDE
+SD4|ScienceDirect|2025|Proceedings ICE - Ground Improvement|Leveraging ML for predicting UCS of soil stabilised with one-part alkali-activated binder|INCLUDE
+SD5|ScienceDirect|2024|Results in Engineering|Eco-friendly mix design of slag-ash-based geopolymer concrete using explainable deep learning|INCLUDE
+SD6|ScienceDirect|2026|Journal of Building Engineering|A review on the engineering performance and durability of geopolymer concrete under extreme conditions|CONTEXT-REVIEW
+SD7|ScienceDirect|2024|Construction and Building Materials|A systematic literature review of AI-based prediction methods for self-compacting, geopolymer, and other eco-friendly concrete types|CONTEXT-REVIEW
+SD8|ScienceDirect|2025|Results in Engineering|Prediction of compressive strength of fly ash-based geopolymers concrete based on machine learning|INCLUDE
+SD9|ScienceDirect|2026|Case Studies in Construction Materials|Computational insights into drying shrinkage: A machine learning framework for alkali-activated materials|INCLUDE
+SD10|ScienceDirect|2026|Developments in the Built Environment|Data-driven prediction of strength development of alkali-activated concrete with uncertainty quantification using interpretable amortised Gaussian process|INCLUDE
+SD11|ScienceDirect|2026|Engineering Applications of Artificial Intelligence|Data-driven design of solid-waste-based alkali-activated material via data augmentation, performance prediction, and virtual screening|INCLUDE
+SD12|ScienceDirect|2026|Results in Engineering|Attention-based hybrid deep learning framework for modelling the compressive strength of ultra-high-performance geopolymer concrete|INCLUDE
+SD13|ScienceDirect|2025|Construction and Building Materials|Alkali activation effect on geopolymer cementitious systems: Microstructural evolution study and GA-BP neural network-based strength simulation|INCLUDE
+SD14|ScienceDirect|2019|Measurement|The use of machine learning in boron-based geopolymers: Function approximation of compressive strength by ANN and GP|INCLUDE
+SD15|ScienceDirect|2024|Construction and Building Materials|Evaluation and prediction of slag-based geopolymer's compressive strength using DOE approach and ANN algorithms|INCLUDE
+SD16|ScienceDirect|2022|Construction and Building Materials|Prediction of compressive strength of alkali-activated construction demolition waste geopolymers using ensemble machine learning|INCLUDE
+SD17|ScienceDirect|2025|Developments in the Built Environment|Compressive strength prediction of fly ash/slag-based geopolymer concrete using EBA-optimised chemistry-informed interpretable deep learning model|INCLUDE
+SD18|ScienceDirect|2025|Case Studies in Construction Materials|Machine learning-based prediction of carbonation depth in alkali-activated materials: Integrating physics knowledge and data augmentation|INCLUDE
+SD19|ScienceDirect|2025|Construction and Building Materials|Effects of mix design parameters on workability and compressive strength of teff straw ash-based geopolymer mortars: Experimental evaluation and machine learning prediction|INCLUDE
+SD20|ScienceDirect|2024|Journal of Building Engineering|Integrating data imputation and augmentation with interpretable machine learning for efficient strength prediction of fly ash-based alkali-activated concretes|INCLUDE
+SD21|ScienceDirect|2025|Construction and Building Materials|Research on predicting the compressive strength of soda residue-based alkali-activated materials under various curing conditions using machine learning approaches|INCLUDE
+SD22|ScienceDirect|2023|Journal of Materials Research and Technology|Machine learning interpretable-prediction models to evaluate the slump and strength of fly ash-based geopolymer|INCLUDE
+SD23|ScienceDirect|2026|Journal of Building Engineering|Utilization of recycled concrete powder and waste glass powder for improving the dry-wet cycle performance of alkali-activated slag|EXCLUDE-EC3
+SD24|ScienceDirect|2024|CMES - Computer Modeling in Engineering and Sciences|Prediction of Geopolymer Concrete Compressive Strength Using Convolutional Neural Networks|INCLUDE
+SD25|ScienceDirect|2025|Engineering Applications of Artificial Intelligence|Exploratory literature review and scientometric analysis of artificial intelligence applied to geopolymeric materials|CONTEXT-REVIEW
+SD26|ScienceDirect|2026|Green and Smart Mining Engineering|Towards eco-friendly mining: Alkali-activated materials from mine waste for pollution mitigation|CONTEXT-REVIEW
+SD27|ScienceDirect|2025|Journal of Building Engineering|Physics-informed neural network approach for identifying free chloride diffusion coefficient in alkali-activated mortars|INCLUDE
+SD28|ScienceDirect|2024|Construction and Building Materials|Alkali-activated binder concrete strength prediction using hybrid-deep learning along with shapely additive explanations and uncertainty analysis|INCLUDE
+SD29|ScienceDirect|2024|Results in Engineering|Exploring the rheological and mechanical properties of alkali activated mortar incorporating waste foundry sand: experimental and machine learning investigation|INCLUDE
+SD30|ScienceDirect|2023|Journal of Building Engineering|Prediction and optimization model of sustainable concrete properties using machine learning, deep learning and swarm intelligence: A review|CONTEXT-REVIEW
+SD31|ScienceDirect|2025|Case Studies in Construction Materials|Next-generation cutting-edge hybrid AI frameworks for predicting rheological properties and CO2 emissions in alkali-activated concrete|INCLUDE
+SD32|ScienceDirect|2025|Cleaner Waste Systems|Green optimization of vapour-cured geopolymer mortars: Predicting cost, mechanical properties, and environmental impact with artificial neural networks|INCLUDE
+SD33|ScienceDirect|2024|Materials Today Communications|Computational intelligence for modeling the rheological properties of the developed hydrated lime-based alkali-activated materials|INCLUDE
+SD34|ScienceDirect|2023|Construction and Building Materials|Prediction & optimization of alkali-activated concrete based on the random forest machine learning algorithm|INCLUDE
+SD35|ScienceDirect|2022|Measurement|Fly ash-based geopolymer concrete's compressive strength estimation by applying artificial intelligence methods|INCLUDE
+SD36|ScienceDirect|2024|Journal of Building Engineering|Mix design strategy and optimization considering characteristic evaluation of geopolymer concrete|INCLUDE
+SD37|ScienceDirect|2026|Journal of Environmental Chemical Engineering|Multidimensional correlation analysis between the components of solid waste and strength of geopolymer based on statistics and machine learning|INCLUDE
+SD38|ScienceDirect|2025|Journal of the Indian Chemical Society|Predicting compressive strength of fly ash and sugarcane bagasse ash-based geopolymer concrete using statistical techniques|EXCLUDE-EC3
+SD39|ScienceDirect|2025|Geotechnique Letters|A data-driven method for prediction and design of biomass ash alkali-activated materials|INCLUDE
+SD40|ScienceDirect|2020|Construction and Building Materials|Analyzing the compressive strength of green fly ash based geopolymer concrete using experiment and machine learning approaches|INCLUDE
+SD41|ScienceDirect|2026|Journal of Building Engineering|Predicting compressive strength of red mud-based geopolymers via machine learning: Insights from experimental validation|INCLUDE
+SD42|ScienceDirect|2023|Journal of Rock Mechanics and Geotechnical Engineering|A machine learning model to predict unconfined compressive strength of alkali-activated slag-based cemented paste backfill|INCLUDE
+SD43|ScienceDirect|2025|Materials Today Communications|Machine learning-based optimization of geopolymer-stabilized soil formulation using blast furnace slag and fly ash|INCLUDE
+SD44|ScienceDirect|2026|Results in Engineering|Optimization of cleaner masonry blocks: Response surface methodology and genetic algorithm integrated neural networks in the applications of slag and waste sand|EXCLUDE-EC2
+SD45|ScienceDirect|2022|Materials Today: Proceedings|A comparative study of normal and self-compacting geopolymer mortar and its strength prediction using tensor flow approach|EXCLUDE-EC4
+SD46|ScienceDirect|2021|Cement and Concrete Composites|Predicting shrinkage of alkali-activated blast furnace-fly ash mortars using artificial neural network (ANN)|INCLUDE
+SD47|ScienceDirect|2023|Construction and Building Materials|Artificial intelligence-based optimized models for predicting the slump and compressive strength of sustainable alkali-derived concrete|INCLUDE
+SD48|ScienceDirect|2023|Journal of Building Engineering|Mix design optimization for fly ash-based geopolymer with mechanical, environmental, and economic objectives using soft computing technology|INCLUDE
+SD49|ScienceDirect|2021|Construction and Building Materials|Regularized multivariate polynomial regression analysis of the compressive strength of slag-metakaolin geopolymer pastes based on experimental data|EXCLUDE-EC3
+SD50|ScienceDirect|2024|Ultrasonics|Data-driven based ultrasonics analysis for evaluating the bond strength of concrete layers|EXCLUDE-EC2
+SD51|ScienceDirect|2025|Waste Management|Novel insight into the heavy metal immobilization by coal fly ash-based geopolymers using machine learning and density functional theory|INCLUDE
+SD52|ScienceDirect|2025|Journal of Building Engineering|Performance optimization of alkali-activated low-calcium fly ash geopolymers: Experimental study and machine learning modeling|INCLUDE
+SD53|ScienceDirect|2022|Case Studies in Construction Materials|Prediction of the drying shrinkage of alkali-activated materials using artificial neural networks|INCLUDE
+SD54|ScienceDirect|2025|Cleaner Materials|A reactive-phase-driven predictive model for compressive strength of solid waste-based alkali-activated materials|INCLUDE
+SD55|ScienceDirect|2023|Heliyon|Prediction of geopolymer pumpability and setting time for well zonal isolation - Using machine learning and statistical based models|INCLUDE
+SD56|ScienceDirect|2023|Journal of Building Engineering|Development of autogenous shrinkage prediction model of alkali-activated slag-fly ash geopolymer based on machine learning|INCLUDE
+SD57|ScienceDirect|2023|Construction and Building Materials|A comparative study of prediction models for alkali-activated materials to promote quick and economical adaptability in the building sector|INCLUDE
+SD58|ScienceDirect|2022|Journal of Cleaner Production|Development of machine learning models for the prediction of the compressive strength of calcium-based geopolymers|INCLUDE
+SD59|ScienceDirect|2025|Cleaner Engineering and Technology|Multivariate predictive modeling of compressive strength in GGBS/fly ash-based alkali-activated concrete|INCLUDE
+SD60|ScienceDirect|2023|Construction and Building Materials|Prediction of compressive strength and feature importance analysis of solid waste alkali-activated cementitious materials based on machine learning|INCLUDE
+SD61|ScienceDirect|2026|Journal of Building Engineering|Data-driven performance regulation of MgO-K2HPO4-SiO2 cement mortar based on a self-constructed experimental database|EXCLUDE-EC2
+SD62|ScienceDirect|2022|Construction and Building Materials|Crack fractal analysis of fractured polyethylene fiber reinforced alkali activated mortar under flexural load|EXCLUDE-EC3
+SD63|ScienceDirect|2026|Inorganic Chemistry Communications|Geopolymer-based catalyst for sustainable biodiesel production: A review|EXCLUDE-EC5
+SD64|ScienceDirect|2025|Construction and Building Materials|Investigation of eggshell powder addition on the performance of expansive road subgrade stabilized with alkali-activated corn cob ash|EXCLUDE-EC3
+SD65|ScienceDirect|2020|Ceramics International|Mechanical properties and prediction of fracture parameters of geopolymer/alkali-activated mortar modified with PVA fiber and nano-SiO2|INCLUDE
+SD66|ScienceDirect|2026|Advances in Engineering Software|Explainable artificial intelligence framework for predicting and minimizing CO2 emissions in GGBFS-geopolymer concrete|INCLUDE
+SD67|ScienceDirect|2025|Engineering Applications of Artificial Intelligence|Chemically-Guided extreme gradient boosting models for predicting the elastic modulus of alkali-activated Concrete|INCLUDE
+SD68|ScienceDirect|2023|Construction and Building Materials|Artificial intelligence-based prediction of strengths of slag-ash-based geopolymer concrete using deep neural networks|INCLUDE
+SD69|ScienceDirect|2025|Proceedings ICE - Structures and Buildings|Optimising sustainable alkali-activated mortar: experimental work and machine learning predictions|INCLUDE
+SD70|ScienceDirect|2026|Acta Astronautica|Predicting lunar regolith simulant geopolymer compressive strength via machine learning|INCLUDE
+SD71|ScienceDirect|2025|Materials Today Sustainability|Machine learning and sustainable geopolymer materials: A systematic review|CONTEXT-REVIEW
+SD72|ScienceDirect|2026|Structures|Prediction of mechanical strength and performance of alkali-activated binders concrete using optimized machine learning with partial dependence plot|INCLUDE
+SD73|ScienceDirect|2026|Construction and Building Materials|Mechanistic insights into the rheology of recycled concrete powder based geopolymer using SHAP-integrated machine learning|INCLUDE
+SD74|ScienceDirect|2025|Open Ceramics|Systematic data-driven meta-analysis of class F fly-ash geopolymer concrete|INCLUDE
+SD75|ScienceDirect|2026|Ceramics International|Understanding the Behavior of Traditional Ceramics Waste Under Alkali Activation: Process, Thermal, and Mineralogical Effects|EXCLUDE-EC3
+SD76|ScienceDirect|2026|Ain Shams Engineering Journal|Neural network-based prediction of mechanical properties in high-strength fly ash-based geopolymer mortars|INCLUDE
+SD77|ScienceDirect|2024|Cement and Concrete Composites|Knowledge-guided data-driven design of ultra-high-performance geopolymer (UHPG)|INCLUDE
+SD78|ScienceDirect|2023|Environmental Technology & Innovation|Neural network optimization during the purification of industrial effluents using steel slag|EXCLUDE-EC5
+SD79|ScienceDirect|2025|Results in Engineering|Sustainable approach of strength measurement for soil's stabilized with geo-polymer with hybrid ensemble models|INCLUDE
+SD80|ScienceDirect|2025|Sustainable Chemistry and Pharmacy|Recycling three local waste materials for optimizing the mechanical performance of fly ash-based geopolymer cement: ternary mixture design and ANN modeling|INCLUDE
+SD81|ScienceDirect|2024|Case Studies in Construction Materials|Mechanics and microstructure analysis of geopolymer utilizing ilmenite tailing and metakaolin powder as alkali-activated materials|EXCLUDE-EC3
+SD82|ScienceDirect|2026|Theoretical and Applied Fracture Mechanics|Mode I/III fracture toughness of alkali-activated concrete at elevated temperatures|EXCLUDE-EC3
+SD83|ScienceDirect|2025|Artificial Intelligence in Geosciences|Interpretable machine learning models for evaluating strength of ternary geopolymers|INCLUDE
+SD84|ScienceDirect|2025|Sustainable Materials and Technologies|Structural-functional geopolymer/Ag9(SiO4)2NO3/g-C3N4 adsorbent-photocatalysts|EXCLUDE-EC5
+SD85|ScienceDirect|2022|Construction and Building Materials|Structure, morphology and compressive strength of Alkali-activated mortars containing waste bottle glass nanoparticles|EXCLUDE-EC3
+SD86|ScienceDirect|2026|Materials Today Communications|Data driven modeling and experimental validation of alkali activated materials for construction applications|INCLUDE
+SD87|ScienceDirect|2022|Expert Systems with Applications|Segmentation of backscattered electron images of geopolymers using convolutional autoencoder network|INCLUDE
+SD88|ScienceDirect|2024|Results in Engineering|Harnessing explainable Artificial Intelligence (XAI) for enhanced geopolymer concrete mix optimization|INCLUDE
+SD89|ScienceDirect|2025|Construction and Building Materials|Predictive modelling and experimental validation of temperature effects on sustainable geopolymer concrete strength|INCLUDE
+SD90|ScienceDirect|2022|Journal of Cleaner Production|Potential utilization of waste glass powder as a precursor material in synthesizing ecofriendly ternary blended geopolymer matrix|EXCLUDE-EC3
+SD91|ScienceDirect|2026|Cement and Concrete Research|Quantifying resolution-dependent microstructure and pore-network topology in LDH-modified alkali-activated slag pastes via synchrotron X-ray nano-holotomography|INCLUDE-FT
+SD92|ScienceDirect|2023|Ceramics International|Effect of high volume tile ceramic wastes on resistance of geopolymer mortars to abrasion and freezing-thawing cycles: Experimental and deep learning modelling|INCLUDE
+SD93|ScienceDirect|2026|Materials Today Communications|Predicting the mechanical strength of geopolymer concrete by using ensemble learning with nature-inspired intelligence|INCLUDE
+SD94|ScienceDirect|2026|Sustainable Chemistry and Pharmacy|Sustainable alkali-activated mortars from blast furnace slag reinforced with basalt fibers: Thermal performance, microstructure, and machine learning analysis|INCLUDE
+SD95|ScienceDirect|2025|Procedia Structural Integrity|Assessment of AI Techniques for Estimating the Property of Strength of Geopolymers Concrete|EXCLUDE-EC4
+SD96|ScienceDirect|2022|Cement and Concrete Research|Deep long short-term memory (LSTM) networks for ultrasonic-based distributed damage assessment in concrete|EXCLUDE-EC2
+SD97|ScienceDirect|2026|Cleaner Environmental Systems|Workability of geopolymer concrete and mortar materials: A systematic review|CONTEXT-REVIEW
+SD98|ScienceDirect|2025|Journal of Building Engineering|A review of machine learning methods for geopolymer performance prediction: Linking data-driven models with physical insights|CONTEXT-REVIEW
+SD99|ScienceDirect|2024|Journal of Water Process Engineering|Modification of geo-filters (BOF Slag - NaOH/Na2SiO3/FA) for removal of Fe3+ and SO42- from acidic mine effluent: AI modeling|EXCLUDE-EC2
+SD100|ScienceDirect|2021|Construction and Building Materials|Synthesis of rubberized Alkali-activated Concrete: Experimental and numerical evaluation|INCLUDE-FT
+SD101|ScienceDirect|2025|Engineering Applications of Artificial Intelligence|An intelligent hybrid machine learning framework for compressive strength prediction of alkali-activated binders based on fly ash characteristics|INCLUDE
+SD102|ScienceDirect|2024|Proceedings ICE - Smart Infrastructure and Construction|The application of GIS viewable area analysis based on algorithm in landscape planning and design|EXCLUDE-EC2
+SD103|ScienceDirect|2026|Powder Technology|High-fidelity data-driven multi-objective design of class F fly ash-geopolymer concrete|INCLUDE
+SD104|ScienceDirect|2022|Materials Today: Proceedings|Experimental study of strength behavior of soft soil stabilised with alkali activated copper slag|EXCLUDE-EC4
+SD105|ScienceDirect|2021|Ceramics International|Bonding behavior of concrete matrix and alkali-activated mortar incorporating nano-SiO2 and polyvinyl alcohol fiber: Theoretical analysis and prediction model|INCLUDE
+SD106|ScienceDirect|2025|Next Materials|Development of an ANN based model for tailoring the fracture response of eco-friendly engineered geopolymer composites (EGC)|INCLUDE
+SD107|ScienceDirect|2025|Procedia Structural Integrity|Prediction of Geopolymer Composite Strength Using Soft Computing Techniques|EXCLUDE-EC4
+SD108|ScienceDirect|2025|Results in Materials|Effect of ingredients and experimental parameter on the rheological and mechanical properties of self-compacting agro-geopolymer paste: Experimental and autoencoder based deep learning|INCLUDE
+SD109|ScienceDirect|2024|Engineering Structures|Enhancing load prediction for structures with concrete overlay using transfer learning of time-frequency feature-based deep models|EXCLUDE-EC2
+SD110|ScienceDirect|2024|Journal of Building Engineering|An innovative intelligent design method of alkali-activated foamed geopolymer: Mixture optimization and performance prediction|INCLUDE
+SD111|ScienceDirect|2024|Case Studies in Construction Materials|Predictive modelling of compressive strength of fly ash and GGBS based geopolymer concrete using machine learning techniques|INCLUDE
+SD112|ScienceDirect|2025|Materials Today Communications|Machine learning prediction of drying shrinkage for alkali-activated materials and multi-objective optimization|INCLUDE
+SD113|ScienceDirect|2024|Journal of Hazardous Materials|Machine learning-based prediction of heavy metal immobilization rate in the solidification/stabilization of MSWI fly ash by geopolymers|INCLUDE
+SD114|ScienceDirect|2025|Journal of Cleaner Production|Sustainable dynamic multi-objective optimization framework of fiber-reinforced geopolymer for soils stabilization based on machine learning and NSGA-II|INCLUDE
+SD115|ScienceDirect|2026|Microchemical Journal|AI-driven smart materials intelligence for the sustainable valorization of phosphogypsum in green engineering applications|INCLUDE
+SD116|ScienceDirect|2024|Journal of Building Engineering|Understanding the synergistic geopolymerization mechanism of multiple solid wastes in ternary geopolymers|INCLUDE
+SD117|ScienceDirect|2021|Procedia Structural Integrity|Fracture parameters of alkali-activated aluminosilicate composites with ceramic precursor|EXCLUDE-EC4
+SD118|ScienceDirect|2026|Results in Engineering|Influence of chemical components and molar ratios on strength development of one-part alkali-activated mortar: Ensemble machine learning models|INCLUDE
+SD119|ScienceDirect|2024|Construction and Building Materials|Fracture toughness of alkali-activated concrete subjected to aggressive environment|INCLUDE-FT
+SD120|ScienceDirect|2025|Journal of Environmental Chemical Engineering|Nanoscale intergrowth of adsorption-photocatalysis active sites of geopolymer/Ag9(SiO4)2NO3|EXCLUDE-EC5
+SD121|ScienceDirect|2024|Sustainable Materials and Technologies|Machine learning models for predicting the compressive strengths of ordinary Portland cement concrete and alkali-activated materials|INCLUDE
+SD122|ScienceDirect|2026|Powder Technology|Explainable machine learning prediction of compressive strength in ternary industrial waste-based geopolymer grouting material|INCLUDE
+SD123|ScienceDirect|2015|Ceramics International|Modelling of compressive strength of geopolymer paste, mortar and concrete by optimized support vector machine|INCLUDE
+SD124|ScienceDirect|2013|Advances in Engineering Software|Fracture properties of cement and alkali activated fly ash based concrete with application to segmental tunnel lining|INCLUDE-FT
+SD125|ScienceDirect|2025|Journal of Environmental Chemical Engineering|All-solid-waste alkali-activated materials: A critical review of multi-waste synergy, heavy metal stabilization, and sustainable engineering applications|CONTEXT-REVIEW
+SD126|ScienceDirect|2026|Cement and Concrete Composites|Evaluation of strength development of one-part alkali-activated materials through machine learning and thermodynamic modelling|INCLUDE
+SD127|ScienceDirect|2023|Case Studies in Construction Materials|Application of machine learning in predicting workability for alkali-activated materials|INCLUDE
+SD128|ScienceDirect|2026|CMES - Computer Modeling in Engineering and Sciences|Interpretable Deep Learning Framework for Predicting Compressive Strength of Steel Fiber Reinforced Geopolymer Concrete|INCLUDE
+SD129|ScienceDirect|2024|Materials Today Communications|Multi-objective optimization of ternary geopolymers with multiple solid wastes|INCLUDE
+SD130|ScienceDirect|2025|Hybrid Advances|Sustainable geopolymer concrete evaluation using machine learning and PDP analysis|INCLUDE
+SD131|ScienceDirect|2022|Construction and Building Materials|Compressive strength prediction of one-part alkali activated material enabled by interpretable machine learning|INCLUDE
+SD132|ScienceDirect|2023|Construction and Building Materials|Mechanical properties prediction of blast furnace slag and fly ash-based alkali-activated concrete by machine learning methods|INCLUDE
+SD133|ScienceDirect|2026|Journal of Constructional Steel Research|Compression performance of square concrete-filled steel tube columns with steel-fibre-reinforced geopolymer concrete: Experiment, simulation and machine-learning|INCLUDE
+SD134|ScienceDirect|2024|Results in Engineering|Harmonizing smart technologies with building resilience and sustainable built environment systems|EXCLUDE-EC2
+SD135|ScienceDirect|2025|Construction and Building Materials|Physics-based probabilistic analysis of corrosion initiation in alkali-activated slag concrete assisted by machine learning|INCLUDE
+SD136|ScienceDirect|2025|Construction and Building Materials|Transfer learning framework for modelling the compressive strength of ultra-high performance geopolymer concrete|INCLUDE
+SD137|ScienceDirect|2022|Journal of Cleaner Production|Evaluation of geopolymer concrete at high temperatures: An experimental study using machine learning|INCLUDE
+SD138|ScienceDirect|2026|Results in Engineering|Predicting hygro-mechanical properties of natural Borassus fiber reinforced bio-based alkali activated matrix: an ensemble learning approach|INCLUDE
+SD139|ScienceDirect|2025|Case Studies in Construction Materials|A comparative performance analysis of machine learning models for compressive strength prediction in fly ash-based geopolymers concrete using reference data|INCLUDE
+SD140|ScienceDirect|2025|Results in Engineering|Machine learning-based predictive modelling of biodiesel production from animal fats catalysed by a blast furnace slag geopolymer|EXCLUDE-EC5
+SD141|ScienceDirect|2025|Waste Management Bulletin|Applications of machine learning algorithms on the compressive strength of laterite blocks made with metakaolin-based geopolymer and sugarcane molasses|INCLUDE
+SD142|ScienceDirect|2024|Construction and Building Materials|Machine learning approaches to predict compressive strength of fly ash-based geopolymer concrete: A comprehensive review|CONTEXT-REVIEW
+SD143|ScienceDirect|2026|Results in Engineering|Metaheuristic optimization of a hybrid GMDH-RBF model for predicting the unconfined compressive strength of natural pozzolan-stabilized sand|INCLUDE-FT
+SD144|ScienceDirect|2026|Construction and Building Materials|Intelligent identification of crack modes and damage evolution in SCA-modified metakaolin-based geopolymers using AE, DIC, and CNN|INCLUDE
+SD145|ScienceDirect|2024|Materials Today Communications|AI-driven design for the compressive strength of ultra-high performance geopolymer concrete (UHPGC): From explainable ensemble models to the GUI|INCLUDE
+SD146|ScienceDirect|2025|Case Studies in Construction Materials|Integrated machine learning and response surface methodology for comprehensive rheological characterization of low-carbon binders|INCLUDE
+SD147|ScienceDirect|2024|Case Studies in Construction Materials|Explicable AI-based modeling for the compressive strength of metakaolin-derived geopolymers|INCLUDE
+SD148|ScienceDirect|2023|Construction and Building Materials|Structural assessment of Basalt FRP reinforced self-compacting geopolymer concrete using ANN modelling|INCLUDE
+SD149|ScienceDirect|2025|Environmental Research|Effective carbon footprint assessment strategy in fly ash geopolymer concrete based on adaptive boosting learning techniques|INCLUDE
+SD150|ScienceDirect|2024|Journal of Cleaner Production|The use of machine learning techniques to investigate the properties of metakaolin-based geopolymer concrete|INCLUDE
+SD151|ScienceDirect|2022|Results in Materials|Compressive strength analysis of fly ash-based geopolymer concrete using machine learning approaches|INCLUDE
+SD152|ScienceDirect|2025|Construction and Building Materials|Multi-objective optimization of recycled fine aggregate geopolymer-based grouting materials using RSM and BPNN coupled approach|INCLUDE
+SD153|ScienceDirect|2026|Phosphorus Sulfur and Silicon|Optimization and performance evaluation of PET-SiO2 polymer-modified geopolymer concrete employing integrated RSM-ANN approach|INCLUDE
+SD154|ScienceDirect|2024|Engineering Applications of Artificial Intelligence|Machine-learning methods for estimating compressive strength of high-performance alkali-activated concrete|INCLUDE
+SD155|ScienceDirect|2023|Journal of Environmental Chemical Engineering|Screening of modified kaolin catalysts in the catalytic pyrolysis of waste HDPE|EXCLUDE-EC2
+SD156|ScienceDirect|2026|Engineering Applications of Artificial Intelligence|Multi-objective mix optimization of geopolymer recycled aggregate concrete using prior knowledge embedded neural network and evolutionary algorithm|INCLUDE
+SD157|ScienceDirect|2024|Journal of Cleaner Production|Ensemble machine learning models for predicting the CO2 footprint of GGBFS-based geopolymer concrete|INCLUDE
+SD158|ScienceDirect|2022|Construction and Building Materials|A review on material mix proportion and strength influence parameters of geopolymer concrete: Application of ANN model|CONTEXT-REVIEW
+SD159|ScienceDirect|2025|Results in Engineering|Prediction of geopolymer concrete compressive strength using artificial neural network and genetic algorithm|INCLUDE
+SD160|ScienceDirect|2025|Construction and Building Materials|NGBoost-based prediction of carbonation in Alkali-activated slag concrete enhanced by metaheuristic algorithms|INCLUDE
+SD161|ScienceDirect|2024|Journal of Cleaner Production|Using acoustic emission to understand the early-age reaction and cracking evolution of alkali-activated slag-brick powder paste|INCLUDE-FT
+SD162|ScienceDirect|2025|Journal of Building Engineering|Comparative evaluation of hybrid machine learning models for predicting the strength of metakaolin-based geopolymer concrete enhanced with Gaussian noise augmentation|INCLUDE
+SD163|ScienceDirect|2025|Minerals Engineering|Exploring the potential of lithium tailings in construction materials|EXCLUDE-EC3
+SD164|ScienceDirect|2023|Journal of Building Engineering|Physico-mechanical and microstructural properties of waste geopolymer powder and lime-added semi-lightweight geopolymer concrete: Efficient machine learning models|INCLUDE
+SD165|ScienceDirect|2024|Journal of Building Engineering|A critical review on modeling and prediction on properties of fresh and hardened geopolymer composites|CONTEXT-REVIEW
+SD166|ScienceDirect|2023|Materials Today: Proceedings|Conventional and Ensemble Machine Learning Models to Predict the Compressive Strength of Fly Ash Based Geopolymer Concrete|EXCLUDE-EC4
+SD167|ScienceDirect|2024|Construction and Building Materials|Phase identification and micromechanical properties of non-traditional and natural pozzolan based alkali-activated materials|EXCLUDE-EC3
+SD168|ScienceDirect|2023|Journal of Building Engineering|Prediction of compressive strength of geopolymer concrete using a hybrid ensemble of grey wolf optimized machine learning estimators|INCLUDE
+SD169|ScienceDirect|2025|International Journal of Polymer Analysis and Characterization|Enhancing geopolymer concrete strength with sodium hydroxide using Gegenbauer graph neural networks approach|INCLUDE
+SD170|ScienceDirect|2021|Construction and Building Materials|Utilization of mill tailings, fly ash and slag as mine paste backfill material: Review|CONTEXT-REVIEW
+SD171|ScienceDirect|2021|Construction and Building Materials|Assessment of acid resistance of natural pozzolan-based alkali-activated concrete: Experimental and optimization modelling|INCLUDE
+SD172|ScienceDirect|2024|Construction and Building Materials|Multi-objective optimization and prediction of strength along with durability in acid-resistant self-compacting alkali-activated concrete|INCLUDE
+SD173|ScienceDirect|2022|Case Studies in Construction Materials|ANN based predictive mimicker for mechanical and rheological properties of eco-friendly geopolymer concrete|INCLUDE
+SD174|ScienceDirect|2024|Case Studies in Construction Materials|Data-driven approaches for strength prediction of alkali-activated composites|INCLUDE
+SD175|ScienceDirect|2024|Advances in Engineering Software|Modelling the compressive strength of geopolymer recycled aggregate concrete using ensemble machine learning|INCLUDE
+SD176|ScienceDirect|2026|Environmental Research|Machine learning-based reactivity evaluation of solid wastes and development of a multi-component all-solid waste cementitious material|INCLUDE
+SD177|ScienceDirect|2024|Materials Today: Proceedings|Utilizing ANFIS for strength characteristics forecasting in variable heat-cured geopolymer composites|EXCLUDE-EC4
+SD178|ScienceDirect|2022|Construction and Building Materials|Analyzing the mechanical performance of fly ash-based geopolymer concrete with different machine learning techniques|INCLUDE
+SD179|ScienceDirect|2022|Construction and Building Materials|Predicting compressive strength of alkali-activated systems based on the network topology and phase assemblages using tree-structure computing algorithms|INCLUDE
+SD180|ScienceDirect|2023|Construction and Building Materials|Mechanical properties prediction of geopolymer concrete subjected to high temperature by BP neural network|INCLUDE
+SD181|ScienceDirect|2026|Composites Part A|Ambient-Cured alkaline geopolymer concrete with industrial by-products and micro-binders: Mix optimization and TiPNN-Based strength prediction|INCLUDE
+SD182|ScienceDirect|2024|Construction and Building Materials|On the use of machine learning and data-transformation methods to predict hydration kinetics and strength of alkali-activated mine tailings-based binders|INCLUDE
+SD183|ScienceDirect|2023|Construction and Building Materials|Effect of composition and curing on alkali activated fly ash-slag binders: Machine learning prediction with a random forest-genetic algorithm hybrid model|INCLUDE
+SD184|ScienceDirect|2023|Construction and Building Materials|Estimation of strength, rheological parameters, and impact of raw constituents of alkali-activated mortar using machine learning and SHAP|INCLUDE
+SD185|ScienceDirect|2025|Construction and Building Materials|Strength prediction of freeze-thaw geopolymer concrete considering pores characteristics: Experiment and three-dimensional meso-numerical simulation|EXCLUDE-EC3
+SD186|ScienceDirect|2025|Separation and Purification Technology|Structural and functional design of CTAB-geopolymer adsorbents for rapid removal of tetracycline|EXCLUDE-EC5
+SD187|ScienceDirect|2021|Composites Part B|Coupling machine learning with thermodynamic modelling to develop a composition-property model for alkali-activated materials|INCLUDE
+SD188|ScienceDirect|2024|Engineering Fracture Mechanics|Dynamic evolution of crack fractal of polypropylene fiber reinforced geopolymer during flexural process|EXCLUDE-EC3
+SD189|ScienceDirect|2026|Structures|A critical synthesis on the synergetic effect of hybrid fibers in enhancing concrete properties|EXCLUDE-EC2
+SD190|ScienceDirect|2024|Materials Today Communications|Fresh state and strength performance evaluation of slag-based alkali-activated concrete using soft-computing methods|INCLUDE
+SD191|ScienceDirect|2025|Canadian Geotechnical Journal|Role of calcined-clay-based geopolymers for effective stabilization of expansive soils|INCLUDE-FT
+SD192|ScienceDirect|2020|Journal of Materials Research and Technology|Estimating strength properties of geopolymer self-compacting concrete using machine learning techniques|INCLUDE
+SD193|ScienceDirect|2023|Journal of Cleaner Production|Data driven design of alkali-activated concrete using sequential learning|INCLUDE
+SD194|ScienceDirect|2025|Structures|Determining equivalent rectangular stress block parameters in geopolymer concrete using multi-gene genetic algorithm-supported models and ML techniques|INCLUDE
+SD195|ScienceDirect|2025|RSC Advances|Phosphoric acid based geopolymer foam-activated carbon composite for methylene blue adsorption|EXCLUDE-EC5
+SD196|ScienceDirect|2023|Computers and Geotechnics|Mix design development for geopolymer treated expansive subgrades using artificial neural network|INCLUDE
+SD197|ScienceDirect|2025|Journal of Building Engineering|3D printable cellulose concrete: a review and pathway to future research|CONTEXT-REVIEW
+SD198|ScienceDirect|2023|Materials Today: Proceedings|Novel machine learning applications on fly ash based concrete: An overview|EXCLUDE-EC4
+SD199|ScienceDirect|2021|Cement and Concrete Composites|Machine learning to predict properties of fresh and hardened alkali-activated concrete|INCLUDE
+SD200|ScienceDirect|2022|Construction and Building Materials|Chemistry-informed machine learning prediction of compressive strength for alkali-activated materials|INCLUDE
+SD201|ScienceDirect|2022|Construction and Building Materials|Determination of compressive strength of perlite-containing slag-based geopolymers and its prediction using ANN and regression-based methods|INCLUDE
+SD202|ScienceDirect|2025|Structures|Freeze-thaw damage assessment of concrete based on surface morphology|EXCLUDE-EC2
+SD203|ScienceDirect|2024|Journal of Environmental Chemical Engineering|Intelligent optimization for modeling carbon dioxide footprint in fly ash geopolymer concrete: A novel approach for minimizing CO2 emissions|INCLUDE
+SD204|ScienceDirect|2025|Construction and Building Materials|Optimization of Fly ash-slag based geopolymer strength, cost, and carbon emissions using CNN-based RSM and NSGA-III|INCLUDE
+SD205|ScienceDirect|2021|Ain Shams Engineering Journal|Sustainable use of fly-ash: Use of GEP and MEP for forecasting the compressive strength geopolymer concrete|INCLUDE
+SD206|ScienceDirect|2022|Computational Materials Science|Application of back propagation neural network to the modeling of slump and compressive strength of composite geopolymers|INCLUDE
+SD207|ScienceDirect|2025|Case Studies in Construction Materials|A comprehensive review on CO2 utilization in cement and concrete: From microstructural transformations to structural applications|CONTEXT-REVIEW
+SD208|ScienceDirect|2021|Construction and Building Materials|Utilization of a novel artificial intelligence technique (ANFIS) to predict the compressive strength of fly ash-based geopolymer|INCLUDE
+SD209|ScienceDirect|2021|Journal of Cleaner Production|Development of high performance sustainable optimized fiber reinforced geopolymer concrete and prediction of compressive strength|INCLUDE
+SD210|ScienceDirect|2015|Computers and Geotechnics|Prediction of unconfined compressive strength of geopolymer stabilized clayey soil using Artificial Neural Network|INCLUDE
+SD211|ScienceDirect|2024|Tunnelling and Underground Space Technology|Intelligent design and seawater mixing performance of new synchronous grouting materials in a pure-solid-waste framework|INCLUDE
+SD212|ScienceDirect|2022|Chemosphere|Global interpretation and generalizability of boosted regression models for the prediction of methylene blue adsorption by clay minerals and alkali activated materials|EXCLUDE-EC5
+SD213|ScienceDirect|2026|Journal of Environmental Chemical Engineering|Global trends and perspectives in soil stabilization/solidification technologies: bibliometric analysis|CONTEXT-REVIEW
+SD214|ScienceDirect|2025|Journal of Building Engineering|Industrial waste in 3D printed concrete: A mechanistic review on rheological control and printability|CONTEXT-REVIEW
+SD215|ScienceDirect|2013|Ceramics International|Predicting compressive strength of different geopolymers by artificial neural networks|INCLUDE
+SD216|ScienceDirect|2019|Construction and Building Materials|Abrasion resistance behaviour of fly ash based geopolymer using nanoindentation and artificial neural network|INCLUDE
+SD217|ScienceDirect|2021|Journal of Cleaner Production|Artificial neural network model to predict the compressive strength of eco-friendly geopolymer concrete incorporating silica fume and natural zeolite|INCLUDE
+SD218|ScienceDirect|2026|Construction and Building Materials|Prediction of compressive strength loss rate in geopolymer composites under freeze-thaw cycles via machine learning|INCLUDE
+SD219|ScienceDirect|2026|Construction and Building Materials|Optimizing porous geopolymer insulation materials using response surface methodology and machine learning|INCLUDE
+SD220|ScienceDirect|2026|Developments in the Built Environment|Intelligent cost-optimized mix design prediction and engineered strength system for geopolymer concrete: A machine learning-based recommender system|INCLUDE
+SD221|ScienceDirect|2026|Progress in Natural Science: Materials International|Machine learning prediction and mechanistic insights into coal-gangue-based geopolymers for heavy metal solidification and stabilization|INCLUDE
+SD222|ScienceDirect|2018|Construction and Building Materials|Effects of fly ash characteristics and alkaline activator components on compressive strength of fly ash-based geopolymer mortar|EXCLUDE-EC3
+SD223|ScienceDirect|2026|Next Materials|Advancing biodiesel production: A review of feedstocks, geopolymer catalysis, and applications of machine learning|EXCLUDE-EC5
+SD224|ScienceDirect|2026|Next Research|AI-Assisted optimization of coconut-pith-reinforced fly-ash geopolymer composites: Integrating experimental design, machine learning, and Bayesian optimization|INCLUDE
+SD225|ScienceDirect|2022|Materials Chemistry and Physics|Development of green photocatalytic geopolymers for dye removal|EXCLUDE-EC5
+SD226|ScienceDirect|2022|Materials Today Communications|Properties prediction for self-compacting concrete incorporating activated fiber and stone chips|EXCLUDE-EC2
+SD227|ScienceDirect|2026|Applications in Engineering Science|Machine learning-based prediction of geopolymer concrete compressive strength using boosting and SVR models|INCLUDE
+SD228|ScienceDirect|2026|Materials Today Communications|Toward a glass-box framework: Interpretable and statistically validated machine learning for geopolymer concrete strength prediction|INCLUDE
+SD229|ScienceDirect|2026|Next Materials|High-temperature mechanical performance and microstructural insights of polypropylene fiber-reinforced fly ash-slag geopolymer mortars|EXCLUDE-EC3
+SD230|ScienceDirect|2025|Materials Today Communications|Prediction of compressive and flexural strength of coal gangue-based geopolymer using machine learning method|INCLUDE
+SD231|ScienceDirect|2025|Case Studies in Construction Materials|Performance evaluation of geopolymer masonry units: A hybrid approach combining laboratory testing and AI modeling|INCLUDE
+SD232|ScienceDirect|2026|Construction and Building Materials|Parametric insights into carbonate activated GGBS-FA geopolymer concrete incorporating recycled concrete aggregate through hybrid statistical machine learning|INCLUDE
+SD233|ScienceDirect|2026|Next Materials|Data driven predictive analysis of hardened properties of sustainable geopolymer concrete developed by using fly ash and sugarcane bagasse ash using explainable AI|INCLUDE
+SD234|ScienceDirect|2025|Developments in the Built Environment|Integrating obsidian and silica fume in geopolymer mortars: Strength prediction via meta-ensemble machine learning framework|INCLUDE
+SD235|ScienceDirect|2024|Computers and Geotechnics|A generic framework for mix design of geopolymer for soil stabilization: Composition-informed machine learning model|INCLUDE
+SD236|ScienceDirect|2026|Next Materials|ML driven classification and optimization of silica fume-polypropylene fiber induced geopolymer concrete using clustering and regression|INCLUDE
+SD237|ScienceDirect|2022|Case Studies in Construction Materials|Compressive strength of geopolymer concrete modified with nano-silica: Experimental and modeling investigations|INCLUDE
+SD238|ScienceDirect|2025|Case Studies in Construction Materials|Application of machine learning models for the optimisation of compressive strength and water resistance of geopolymer stabilised compacted earth|INCLUDE
+SD239|ScienceDirect|2026|Construction and Building Materials|Bacillus megaterium-incorporated GGBS geopolymer mortar: Explainable ensemble machine learning, multi-objective optimization, and probabilistic reliability|INCLUDE
+SD240|ScienceDirect|2026|Composite Structures|Novel hybrid machine learning framework for high-fidelity prediction of fly ash-based geopolymer concrete strength|INCLUDE
+SD241|ScienceDirect|2026|Structures|Flexural performance of post-tensioned unbonded prestressed geopolymer concrete beams|EXCLUDE-EC3
+SD242|ScienceDirect|2026|Structures|A novel robust model: Dimensionless ensemble machine learning to predict behavior of geopolymer concrete|INCLUDE
+SD243|ScienceDirect|2026|Developments in the Built Environment|Upcycled geopolymer concrete incorporating GFRP waste powder: Sulfate resistance and machine learning-based strength prediction|INCLUDE
+SD244|ScienceDirect|2026|CMES - Computer Modeling in Engineering and Sciences|Accurate Compressive Strength Prediction of Fly Ash Geopolymers Using Advanced Ensemble Models and Morris Analysis|INCLUDE
+SD245|ScienceDirect|2025|Structures|Frost resistance of steel fiber geopolymer concrete studied via the machine learning method|INCLUDE
+SD246|ScienceDirect|2025|Cleaner Engineering and Technology|Machine learning-driven optimization for predicting compressive strength in fly ash geopolymer concrete|INCLUDE
+SD247|ScienceDirect|2025|Journal of Environmental Chemical Engineering|Predicting the adsorption capacity of geopolymers for heavy metals in solution based on machine learning|EXCLUDE-EC5
+SD248|ScienceDirect|2025|Open Ceramics|Machine learning for the optimization of porosity-hygroscopy correlations of porous geopolymers in indoor thermal comfort|INCLUDE
+SD249|ScienceDirect|2025|Results in Engineering|Prediction of compressive strength for geopolymer paste using bagging ensemble technique and experimental design|INCLUDE
+SD250|ScienceDirect|2026|Procedia Computer Science|Generative Machine Learning Models for Geopolymer Concrete: Strength Prediction and Mixture Optimization|EXCLUDE-EC4
+SD251|ScienceDirect|2026|Journal of Cleaner Production|Machine learning-driven multi-objective optimization and dynamic performance prediction of geopolymer concrete|INCLUDE
+SD252|ScienceDirect|2024|Journal of Building Engineering|Analyzing the compressive strength of one-part geopolymers using experiment and machine learning approaches|INCLUDE
+SD253|ScienceDirect|2024|Cleaner Materials|Using ensemble machine learning and metaheuristic optimization for modelling the elastic modulus of geopolymer concrete|INCLUDE
+SD254|ScienceDirect|2025|Journal of Molecular Structure|Sustainable catalysts: Advances in geopolymer-catalyzed reactions and their applications|EXCLUDE-EC5
+SD255|ScienceDirect|2026|Advanced Engineering Informatics|Interpretable AI-driven framework for sustainable modification of dredged sludge: A knowledge-guided approach to industrial waste-geopolymer binders design|INCLUDE
+SD256|ScienceDirect|2023|Journal of Building Engineering|A novel framework for strength prediction of geopolymer mortar: Renovative precursor effect|INCLUDE
+SD257|ScienceDirect|2026|Case Studies in Thermal Engineering|Experimental and machine learning-based analysis of encapsulated lauric acid in geopolymer composites for thermal energy storage|INCLUDE
+SD258|ScienceDirect|2026|Journal of Building Engineering|Multi-objective optimization of mix design for geopolymer foam concrete with industrial solid wastes based on machine learning|INCLUDE
+SD259|ScienceDirect|2025|Construction and Building Materials|Evaluating the compressive strength of industrial wastes-based geopolymer concrete with machine learning models|INCLUDE
+SD260|ScienceDirect|2025|Construction and Building Materials|Filament geometry control of printable geopolymer using experimental and data driven approaches|INCLUDE
+SD261|ScienceDirect|2026|Next Materials|Uncertainty-aware prediction intervals for compressive-strength estimation of geopolymer concrete|INCLUDE
+SD262|ScienceDirect|2025|Results in Materials|Prediction and optimization of strength and CO2 emission for geopolymer concrete mix design using machine learning|INCLUDE
+SD263|ScienceDirect|2024|Results in Materials|Temperature-dependent compressive strength modeling of geopolymer blocks utilizing glass powder and steel slag|INCLUDE
+SD264|ScienceDirect|2024|Magazine of Concrete Research|Experimental and machine learning based study of compressive strength of geopolymer concrete|INCLUDE
+SD265|ScienceDirect|2025|Applied Soft Computing|Machine learning-driven evaluation of carbon emissions in geopolymer concrete|INCLUDE
+SD266|ScienceDirect|2025|Case Studies in Construction Materials|Production and optimization of affordable artificial geopolymer aggregates containing crumb rubber, plastic waste, and granulated cork|INCLUDE
+SD267|ScienceDirect|2025|Structures|Developing a novel strength predictive modeling for 3D printable geopolymer concrete: An interpretable data-driven approach|INCLUDE
+SD268|ScienceDirect|2026|Construction and Building Materials|Reliable extrapolation in geopolymer concrete strength prediction using episodic-enhanced tabular foundation models|INCLUDE
+SD269|ScienceDirect|2025|Cleaner Waste Systems|Predicting the compressive strength of laterite blocks stabilized with metakaolin geopolymer and sugarcane molasses via machine learning|INCLUDE
+SD270|ScienceDirect|2024|Construction and Building Materials|Predicting the compressive strength of engineered geopolymer composites using automated machine learning|INCLUDE
+SD271|ScienceDirect|2025|International Journal of Hydrogen Energy|Boosting biohydrogen yield from cheese whey through machine learning|EXCLUDE-EC2
+SD272|ScienceDirect|2024|Construction and Building Materials|Multi-performance optimization of low-carbon geopolymer considering mechanical, cost, and CO2 emission based on experiment and interpretable learning|INCLUDE
+SD273|ScienceDirect|2024|Case Studies in Construction Materials|Comparative study on the prediction of the unconfined compressive strength of the one-part geopolymer stabilized soil using different hybrid machine learning|INCLUDE
+SD274|ScienceDirect|2025|Sustainable Materials and Technologies|Performance and alkalinity control in geopolymer coral aggregate concrete via experiments and machine learning|INCLUDE
+SD275|ScienceDirect|2024|Materials Today: Proceedings|Prediction of concrete's compressive strength using machine learning algorithms|EXCLUDE-EC4
+SD276|ScienceDirect|2025|Structures|An interpretable machine learning approach with graphical user interface for strength prediction of sustainable slag-based geopolymer concrete|INCLUDE
+SD277|ScienceDirect|2024|Journal of Building Engineering|Machine learning guided iterative mix design of geopolymer concrete|INCLUDE
+SD278|ScienceDirect|2022|Construction and Building Materials|The data-driven research on bond strength between fly ash-based geopolymer concrete and reinforcing bars|INCLUDE
+SD279|ScienceDirect|2025|Journal of Materials Research and Technology|Explicit gradient boosting machine for accurate compressive strength prediction of metakaolin-based geopolymer concrete|INCLUDE
+SD280|ScienceDirect|2024|Materials Today Communications|Parametric analysis and prediction of geopolymerization process|INCLUDE
+SD281|ScienceDirect|2024|Journal of Building Engineering|Surface reinforcement of recycled aggregates (RAs) by geopolymer and quantifying its morphological characteristics by machine learning|INCLUDE
+SD282|ScienceDirect|2025|Construction and Building Materials|ITZs characterization in full-component geopolymer recycled concrete based on quantitative BSE-EDS images and nanoindentation techniques|INCLUDE-FT
+SD283|ScienceDirect|2025|Pedosphere|Data-driven model and probabilistic evaluation of heavy metal immobilization in geopolymer-treated municipal solid waste using tabular prior-data fitted network|INCLUDE
+SD284|ScienceDirect|2021|Construction and Building Materials|Machine learning model for predicting the crack detection and pattern recognition of geopolymer concrete beams|INCLUDE
+SD285|ScienceDirect|2026|Journal of Building Engineering|Review on interfacial bonding behavior between geopolymer concrete and OPC concrete substrate|CONTEXT-REVIEW
+SD286|ScienceDirect|2022|Construction and Building Materials|Application of machine learning algorithm to assess the efficacy of varying industrial wastes and curing methods on strength development of geopolymer concrete|INCLUDE
+SD287|ScienceDirect|2021|Cement and Concrete Composites|Predicting the geopolymerization process of fly ash-based geopolymer using deep long short-term memory and machine learning|INCLUDE
+SD288|ScienceDirect|2025|Journal of Building Engineering|Compressive strength prediction and feature analysis for GGBS-Based geopolymer concrete using optimized XGBoost and SHAP|INCLUDE
+SD289|ScienceDirect|2026|Structures|Experimental evaluation and prediction model for shear capacity of screw connectors in built-up cold-formed steel composite columns with geopolymer concrete|INCLUDE
+SD290|ScienceDirect|2024|Journal of Building Engineering|AI-driven critical parameter optimization of sustainable self-compacting geopolymer concrete|INCLUDE
+SD291|ScienceDirect|2024|Case Studies in Construction Materials|Synthesis of geopolymer mortar from biomass ashes and forecasting its compressive strength behaviour|INCLUDE
+SD292|ScienceDirect|2026|Marine Environmental Research|Sustainability of corrosion-induced degradation of marine engineering structures: bibliometric analysis|INCLUDE-ADJUDICATED
+SD293|ScienceDirect|2020|Materials Advances|Formulation of mix design for 3D printing of geopolymers: a machine learning approach|INCLUDE
+SD294|ScienceDirect|2026|Journal of Environmental Chemical Engineering|Sustainable recycling of mining waste: A bibliometric analysis of global research trends|CONTEXT-REVIEW
+SD295|ScienceDirect|2023|Construction and Building Materials|Effects of binder proportion and curing condition on the mechanical characteristics of volcanic ash- and slag-based geopolymer mortars; machine learning integrated|INCLUDE
+SD296|ScienceDirect|2024|Construction and Building Materials|Investigation of machine learning models in predicting compressive strength for ultra-high-performance geopolymer concrete: A comparative study|INCLUDE
+SD297|ScienceDirect|2023|Materials Today Communications|Influence of chemical constituents of binder and activator in predicting compressive strength of fly ash-based geopolymer concrete using firefly-optimized hybrid ensemble|INCLUDE
+SD298|ScienceDirect|2025|Chemical Engineering Journal|CeNEP: A general-purpose machine learning interatomic potential for cementitious materials|CONTEXT-ADJACENT
+SD299|ScienceDirect|2026|Automation in Construction|Automated construction of knowledge graphs for accelerated design and understanding of ultra-high-performance concrete|CONTEXT-ADJACENT
+SD300|ScienceDirect|2025|Journal of Environmental Chemical Engineering|From waste to resource: Upcycling red mud as eco-friendly geopolymer for the circular economy|CONTEXT-REVIEW
+SD301|ScienceDirect|2017|Ceramics International|Mix design factors and strength prediction of metakaolin-based geopolymer|INCLUDE
+SD302|ScienceDirect|2024|Materials & Design|Effects of adding zeolite particles on the hierarchical microstructure of zeolite-geopolymer composites and their Sr2+ adsorption properties|EXCLUDE-EC5
+SD303|ScienceDirect|2023|Journal of Building Engineering|Multi-objective optimization of fly ash-slag based geopolymer considering strength, cost and CO2 emission: A new framework based on tree-based ensemble models and NSGA-II|INCLUDE
+SD304|ScienceDirect|2024|Journal of Cleaner Production|Influence of treated recycled concrete aggregate and modified mixing approach on the mechanical properties of ternary blend geopolymer concrete: Experiments and ML|INCLUDE
+SD305|ScienceDirect|2023|Journal of Building Engineering|Enhancing hygroscopic capacities of metakaolin based porous insulating geopolymers|EXCLUDE-EC3
+SD306|ScienceDirect|2022|Journal of Petroleum Science and Engineering|Application of non-parametric statistical methods to predict pumpability of geopolymers for well cementing|EXCLUDE-EC3
+SD307|ScienceDirect|2025|Applied Soft Computing|Development and optimization of geopolymer concrete with compressive strength prediction using particle swarm-optimized extreme gradient boosting|INCLUDE
+SD308|ScienceDirect|2023|Environmental Research|Novel modeling and optimization framework for Navy Blue adsorption onto eco-friendly magnetic geopolymer composite|EXCLUDE-EC5
+SD309|ScienceDirect|2023|Materials Today: Proceedings|Prediction of compressive strength fiber-reinforced geopolymer concrete (FRGC) using gene expression programming (GEP)|EXCLUDE-EC4
+SD310|ScienceDirect|2022|Journal of Cleaner Production|A generic framework for augmented concrete mix design: Optimisation of geopolymer concrete considering environmental, financial and mechanical properties|INCLUDE
+SD311|ScienceDirect|2026|Next Materials|Cross-dataset stability assessment of a fixed-configuration CatBoost model across heterogeneous civil engineering material datasets|INCLUDE
+SD312|ScienceDirect|2023|Construction and Building Materials|Efficient machine learning algorithm with enhanced cat swarm optimization for prediction of compressive strength of GGBS-based geopolymer concrete at elevated temperature|INCLUDE
+SD313|ScienceDirect|2022|Materials Today: Proceedings|Statistical analysis of fly ash and slag blended geopolymer concrete|EXCLUDE-EC4
+SD314|ScienceDirect|2022|Construction and Building Materials|A novel Bayesian inference method for predicting optimum strength gain in sustainable geomaterials for greener construction|INCLUDE
+SD315|ScienceDirect|2025|Nanoscale Advances|Activation energy of aluminate dissolution in metakaolin: MLFF-accelerated DFT study of vdW and hydration shell effects|INCLUDE
+SD316|ScienceDirect|2026|Separation and Purification Technology|3D printed adsorbents for water and wastewater treatment: A critical review|EXCLUDE-EC5
+SD317|ScienceDirect|2023|Engineering Fracture Mechanics|Fracture toughness evaluation of ground granulated blast furnace slag concrete using experimental study and machine learning techniques|INCLUDE-FT
+SD318|ScienceDirect|2022|Construction and Building Materials|Investigation of geopolymer-based ultra-high performance concrete slabs against contact explosions|EXCLUDE-EC3
+SD319|ScienceDirect|2024|Construction and Building Materials|A study of fine-scale low-temperature cracking in geopolymer grouted porous asphalt mixtures based on real aggregate profile modeling|EXCLUDE-EC3
+SD320|ScienceDirect|2022|Journal of Cleaner Production|Rapid identification of reactivity for the efficient recycling of coal fly ash: Hybrid machine learning modeling and interpretation|INCLUDE
+SP1|SpringerLink|2026|Scientific Reports|Comparative evaluation of machine learning and deep learning approaches for compressive strength prediction of geopolymer concrete|INCLUDE
+SP2|SpringerLink|2026|Asian Journal of Civil Engineering|Utilizing long short-term memory deep learning models to predict the compressive strength of geopolymer concrete|INCLUDE
+SP3|SpringerLink|2026|ENGINEERING Structure and Civil Engineering|Explainable machine learning for predicting the mechanical strength of eco-friendly geopolymer concrete|INCLUDE
+SP4|SpringerLink|2026|Iranian J Science and Technology Trans Civil Eng|Experimental Insights and Machine Learning Prediction of Molarity and Temperature Effects on Geopolymer Concrete|INCLUDE
+SP5|SpringerLink|2025|Scientific Reports|Compressive strength modelling of cenosphere and copper slag-based geopolymer concrete using deep learning model|INCLUDE
+SP6|SpringerLink|2025|Asian Journal of Civil Engineering|Interpretable GA-PSO-optimised deep learning for multi-objective geopolymer concrete strength prediction|INCLUDE
+SP7|SpringerLink|2026|Asian Journal of Civil Engineering|Performance evaluation and machine learning modeling of geopolymer fly ash masonry bricks|INCLUDE
+SP8|SpringerLink|2025|Materials Circular Economy|ML Model to Predict the Compressive Strength of Geopolymer Mortar Modified with Palm Oil Fuel Ash|INCLUDE
+SP9|SpringerLink|2026|Journal of Building Pathology and Rehabilitation|A hybrid metaheuristic-machine learning framework for high-fidelity prediction of geopolymer concrete compressive strength|INCLUDE
+SP10|SpringerLink|2025|Asian Journal of Civil Engineering|Prediction of compressive strength of geopolymer concrete using optimised machine learning algorithms|INCLUDE
+SP11|SpringerLink|2026|ENGINEERING Structure and Civil Engineering|Strengthening mechanisms and machine learning prediction of fiber-reinforced geopolymer composites|INCLUDE
+SP12|SpringerLink|2025|Scientific Reports|Comparison of deep LSTM and machine learning models for predicting compressive strength of fly ash/slag-based geopolymer concrete|INCLUDE
+SP13|SpringerLink|2024|Frontiers of Structural and Civil Engineering|Machine learning based models for predicting compressive strength of geopolymer concrete|INCLUDE
+SP14|SpringerLink|2026|Innovative Infrastructure Solutions|Experimental investigation with machine learning validation on the mechanical strength of natural fiber reinforced geopolymer concrete|INCLUDE
+SP15|SpringerLink|2025|Scientific Reports|Machine learning based optimization of fly ash content for improving geopolymer concrete compressive strength|INCLUDE
+SP16|SpringerLink|2024|Innovative Infrastructure Solutions|Predicting compressive strength of geopolymer concrete using machine learning models|INCLUDE
+SP17|SpringerLink|2025|Asian Journal of Civil Engineering|Experimental insights and hybridized ensemble machine learning validation of fiber reinforced geopolymer concrete strength|INCLUDE
+SP18|SpringerLink|2025|Asian Journal of Civil Engineering|Analytical and experimental investigation on strength characteristics of one part geopolymer using machine learning models|INCLUDE
+SP19|SpringerLink|2026|Scientific Reports|Evaluate the compressive strength of fiber-reinforced geopolymer concrete incorporating GGBS with machine learning approach|INCLUDE
+SP20|SpringerLink|2025|Asian Journal of Civil Engineering|Comparative study on the mechanical properties of geopolymer concrete containing GGBS and fly ash using experimental analysis and ANN|INCLUDE
+CR1|Crossref|2025|ACI Materials Journal|Predicting Geopolymer Ultra-High-Performance Concrete Strength Using Machine Learning (10.14359/51747873)|INCLUDE
+CR2|Crossref|2024|SSRN|Structural Behavior of Sustainable Ternary Geopolymer Concrete and Strength Prediction using ML|EXCLUDE-EC1
+CR3|Crossref|2022|SSRN|Compressive Strength Analysis of Fly Ash-Based Geopolymer Concrete Using ML|EXCLUDE-EC1
+CR4|Crossref|2022|SSRN|Compressive Strength Analysis of Fly Ash-Based Geopolymer Concrete Using ML (duplicate SSRN record)|EXCLUDE-EC1
+CR5|Crossref|2026|Scientific Reports|Comparative evaluation of machine learning and deep learning approaches (10.1038/s41598-026-50705-w)|DUPLICATE-SP1
+CR6|Crossref|2022|Results in Materials|Compressive strength analysis of fly ash-based geopolymer concrete using ML (10.1016/j.rinma.2022.100347)|DUPLICATE-SD151
+CR7|Crossref|2024|Innovative Infrastructure Solutions|Predicting compressive strength of geopolymer concrete using ML models (10.1007/s41062-024-01832-8)|DUPLICATE-SP16
+CR8|Crossref|2022|Materials|Application of Machine Learning Approaches to Predict the Strength Property of Geopolymer Concrete (10.3390/ma15072400)|INCLUDE
+CR9|Crossref|2026|Materials|Interpretable Machine Learning for One-Part Fly-Ash/Slag Geopolymer Strength Prediction (10.3390/ma19153347)|INCLUDE
+CR10|Crossref|2023|Innovation and Emerging Technologies|Predicting compressive strength of geopolymer concrete using machine learning (10.1142/s2737599423500032)|INCLUDE-FT
+CR11|Crossref|2021|Structural Concrete|Prediction of compressive strength of geopolymer concrete using machine learning techniques (10.1002/suco.202100354)|INCLUDE
+CR12|Crossref|2024|Educational Administration Theory and Practices|Evaluation Of Strength Properties Of Geopolymer Concrete By Using AI and ML (10.53555/kuey.v30i5.3887)|EXCLUDE-EC1
+CR13|Crossref|2026|Scientific Reports|Predicting unconfined compressive strength of geopolymer-stabilized clays using a sector fruit fly-based extreme learning machine (10.1038/s41598-026-47208-z)|INCLUDE
+CR14|Crossref|2026|Materia (Rio de Janeiro)|Performance prediction of sustainable geopolymer concrete incorporating biochar and nano-cellulose using ML (10.1590/1517-7076-rmat-2025-0692)|INCLUDE
+CR15|Crossref|2025|Structures|Interpretable ML approach with GUI for slag-based geopolymer concrete (10.1016/j.istruc.2025.110281)|DUPLICATE-SD276
+CR16|Crossref|2025|Applied Soft Computing|Machine learning-driven evaluation of carbon emissions in geopolymer concrete (10.1016/j.asoc.2025.114017)|DUPLICATE-SD265
+CR17|Crossref|2022|Journal of Cleaner Production|Evaluation of geopolymer concrete at high temperatures (10.1016/j.jclepro.2022.133608)|DUPLICATE-SD137
+CR18|Crossref|2026|Applications in Engineering Science|ML-based prediction of geopolymer concrete CS using boosting and SVR (10.1016/j.apples.2026.100307)|DUPLICATE-SD227
+CR19|Crossref|2026|Materials Today Communications|Toward a glass-box framework (10.1016/j.mtcomm.2026.114833)|DUPLICATE-SD228
+CR20|Crossref|2024|Evergreen|Predicting Compressive Strength and Density of Ecuadorian Natural Mordenite-Based Geopolymer Using ML (10.5109/7326955)|INCLUDE
+CR21|Crossref|2026|Scientific Reports|Mechanical and durability performance prediction of geopolymer incorporating ferrosilicon slag and aluminum powder (10.1038/s41598-025-32654-y)|INCLUDE
+CR22|Crossref|2024|Transportation Infrastructure Geotechnology|Predictive Modeling of Geopolymer Concrete Properties Incorporating Phosphogypsum and Slag (10.1007/s40515-024-00435-1)|INCLUDE
+CR23|Crossref|2026|Rocznik Ochrona Srodowiska|Data-Driven Prediction of CO2 Emissions in Low-Carbon Geopolymer Concrete (10.54740/ros.2026.024)|INCLUDE
+CR24|Crossref|2022|Buildings|Predicting the Geopolymerization Process of Fly-Ash-Based Geopolymer Using ML (10.3390/buildings12111792)|INCLUDE
+CR25|Crossref|2022|Construction and Building Materials|Analyzing the mechanical performance of fly ash-based geopolymer concrete (10.1016/j.conbuildmat.2021.125785)|DUPLICATE-SD178
+CR26|Crossref|2021|Polymers|Prediction of Geopolymer Concrete Compressive Strength Using Novel Machine Learning Algorithms (10.3390/polym13193389)|INCLUDE
+CR27|Crossref|2026|Powder Technology|Explainable ML prediction of CS in ternary industrial waste-based geopolymer grouting (10.1016/j.powtec.2025.122082)|DUPLICATE-SD122
+CR28|Crossref|2026|Journal of Materials & Construction|AI-Based prediction of fine-aggregate geopolymer concrete strength (10.54772/jomc.v16i01.1183)|EXCLUDE-EC7
+CR29|Crossref|2025|Cleaner Engineering and Technology|ML-driven optimization for predicting CS in fly ash geopolymer concrete (10.1016/j.clet.2025.100899)|DUPLICATE-SD246
+CR30|Crossref|2025|Structures|Frost resistance of steel fiber geopolymer concrete (10.1016/j.istruc.2025.108444)|DUPLICATE-SD245
+CR31|Crossref|2024|Buildings|Digital Industrial Design Method in Architectural Design by ML Optimization: Towards Sustainable Construction Practices of Geopolymer Concrete (10.3390/buildings14123998)|INCLUDE
+CR32|Crossref|2021|Cement and Concrete Composites|Predicting the geopolymerization process using deep LSTM (10.1016/j.cemconcomp.2021.104177)|DUPLICATE-SD287
+CR33|Crossref|2025|Results in Materials|Prediction and optimization of strength and CO2 emission (10.1016/j.rinma.2025.100791)|DUPLICATE-SD262
+CR34|Crossref|2024|Journal of Building Engineering|Machine learning guided iterative mix design of geopolymer concrete (10.1016/j.jobe.2024.109710)|DUPLICATE-SD277
+CR35|Crossref|2024|Nondestructive Testing and Evaluation|Utilizing an enhanced machine learning approach for geopolymer concrete analysis (10.1080/10589759.2024.2334434)|INCLUDE
+CR36|Crossref|2025|Results in Engineering|ML-based predictive modelling of biodiesel production catalysed by BFS geopolymer (10.1016/j.rineng.2025.104126)|DUPLICATE-SD140
+CR37|Crossref|2024|Construction and Building Materials|Predicting the compressive strength of engineered geopolymer composites using AutoML (10.1016/j.conbuildmat.2024.137509)|DUPLICATE-SD270
+CR38|Crossref|2025|Industrial Construction|Prediction of CS of Fly Ash-Based Geopolymer Concrete Based on ML (10.3724/j.gyjzg24102302)|EXCLUDE-EC7
+CR39|Crossref|2023|Asian Journal of Civil Engineering|Prediction of CS of geopolymer concrete using random forest machine and deep learning (10.1007/s42107-023-00670-w)|INCLUDE
+CR40|Crossref|2026|Sustainability|Interpretable Machine Learning for CS Prediction of Fly Ash-Based Geopolymer Concrete (10.3390/su18052227)|INCLUDE
+CR41|Crossref|2021|Construction and Building Materials|ML model for predicting crack detection and pattern recognition of geopolymer concrete beams (10.1016/j.conbuildmat.2021.123785)|DUPLICATE-SD284
+CR42|Crossref|2025|Scientific Reports|ML based optimization of fly ash content (10.1038/s41598-025-29088-x)|DUPLICATE-SP15
+CR43|Crossref|2025|Asian Journal of Civil Engineering|Prediction of CS of geopolymer concrete using optimised ML algorithms (10.1007/s42107-025-01541-2)|DUPLICATE-SP10
+CR44|Crossref|2026|Bulletin of Computational Intelligence|Explainable Hybridized ML for Prediction of CS of Fly-Ash based Geopolymer Concrete (10.53941/bci.2026.100012)|EXCLUDE-EC7
+CR45|Crossref|2026|Scientific Reports|Explainable ML based optimization of strength, durability, and carbon efficiency of fly ash-GGBS geopolymer concrete (10.1038/s41598-026-48502-6)|INCLUDE
+CR46|Crossref|2023|Materials Today: Proceedings|Conventional and Ensemble ML Models (10.1016/j.matpr.2023.04.393)|EXCLUDE-EC4
+CR47|Crossref|2026|Next Materials|Advancing biodiesel production review (10.1016/j.nxmate.2026.102018)|EXCLUDE-EC5
+CR48|Crossref|2023|Journal of Building Engineering|Physico-mechanical waste geopolymer powder semi-lightweight (10.1016/j.jobe.2023.106629)|DUPLICATE-SD164
+CR49|Crossref|2026|Procedia Computer Science|Generative ML Models for Geopolymer Concrete (10.1016/j.procs.2026.06.566)|EXCLUDE-EC4
+CR50|Crossref|2026|ENGINEERING Structure and Civil Engineering|Strengthening mechanisms and ML prediction of fiber-reinforced geopolymer composites (10.1007/s11709-026-1335-3)|DUPLICATE-SP11
+CR51|Crossref|2024|Cleaner Materials|Ensemble ML and metaheuristic optimization elastic modulus (10.1016/j.clema.2024.100258)|DUPLICATE-SD253
+CR52|Crossref|2026|Next Materials|ML driven classification and optimization silica fume-PP fiber (10.1016/j.nxmate.2026.102389)|DUPLICATE-SD236
+CR53|Crossref|2020|World Journal of Advanced Research and Reviews|Prediction of GGBS based geopolymer concrete strength by using ML (10.30574/wjarr.2020.5.1.0016)|EXCLUDE-EC1
+CR54|Crossref|2026|CMES|ML Prediction of the CS of Nano-Silica-Modified Hybrid Geopolymer Mortar (10.32604/cmes.2026.083537)|INCLUDE
+CR55|Crossref|2025|Materials Today Sustainability|Machine learning and sustainable geopolymer materials: A systematic review (10.1016/j.mtsust.2025.101095)|DUPLICATE-SD71
+CR56|Crossref|2025|International Journal of Applied Ceramic Technology|Comparative study of ML algorithms for predicting CS of geopolymer concrete (10.1111/ijac.70065)|INCLUDE
+CR57|Crossref|2024|Advances in Engineering Software|Modelling CS of geopolymer recycled aggregate concrete (10.1016/j.advengsoft.2024.103611)|DUPLICATE-SD175
+CR58|Crossref|2026|Materials|Prediction of UCS of One-Part Geopolymer-Stabilized Soil Under Acidic Erosion (10.3390/ma19010209)|INCLUDE
+CR59|Crossref|2024|Computers and Geotechnics|Generic framework for mix design of geopolymer for soil stabilization (10.1016/j.compgeo.2024.106322)|DUPLICATE-SD235
+CR60|Crossref|2024|Structural Concrete|Predictive modeling of CS of geopolymer concrete before and after high temperature (10.1002/suco.202400552)|INCLUDE
+CR61|Crossref|2022|Construction and Building Materials|Chemistry-informed machine learning prediction of CS for alkali-activated materials (10.1016/j.conbuildmat.2021.126103)|DUPLICATE-SD200
+CR62|Crossref|2026|Asian Journal of Civil Engineering|Data-driven ensemble ML framework for reliable CS prediction of alkali-activated composites (10.1007/s42107-026-01654-2)|INCLUDE
+CR63|Crossref|2024|Materials|Efficient CS Prediction of Alkali-Activated Waste Materials Using ML (10.3390/ma17133141)|INCLUDE
+CR64|Crossref|2022|Construction and Building Materials|CS prediction of one-part alkali activated material (10.1016/j.conbuildmat.2022.129534)|DUPLICATE-SD131
+CR65|Crossref|2023|Journal of Building Engineering|Autogenous shrinkage prediction model (10.1016/j.jobe.2023.106538)|DUPLICATE-SD56
+CR66|Crossref|2023|Construction and Building Materials|Mechanical properties prediction of BFS and FA-based AAC (10.1016/j.conbuildmat.2023.133933)|DUPLICATE-SD132
+CR67|Crossref|2026|Journal for Research in Applied Sciences and Biotechnology|ML Prediction of Reinforcement Bond Strength in Fly ASH-GGBS Based AAC (10.55544/jrasb.5.3.8)|EXCLUDE-QUALITY
+CR68|Crossref|2024|Journal of Building Engineering|Integrating data imputation and augmentation (10.1016/j.jobe.2024.111248)|DUPLICATE-SD20
+CR69|Crossref|2020|ACI Materials Journal|Design of Alkali-Activated Slag-Fly Ash Concrete Mixtures Using Machine Learning (10.14359/51727019)|INCLUDE
+CR70|Crossref|2022|Construction and Building Materials|Prediction of CS of alkali-activated CDW geopolymers (10.1016/j.conbuildmat.2022.129600)|DUPLICATE-SD16
+CR71|Crossref|2025|Case Studies in Construction Materials|ML-based prediction of carbonation depth in AAM (10.1016/j.cscm.2025.e05311)|DUPLICATE-SD18
+CR72|Crossref|2023|Construction and Building Materials|Prediction & optimization of AAC based on RF (10.1016/j.conbuildmat.2023.131519)|DUPLICATE-SD34
+CR73|Crossref|2026|Structures|Prediction of mechanical strength and performance of AAB concrete with PDP (10.1016/j.istruc.2025.110896)|DUPLICATE-SD72
+CR74|Crossref|2025|Journal of Structural Design and Construction Practice|Experimental Verification for ML Approaches in CS Prediction of AAC (10.1061/jsdccc.sceng-1565)|INCLUDE
+CR75|Crossref|2021|Applied Sciences|ML Approaches for Prediction of the CS of Alkali Activated Termite Mound Soil (10.3390/app11114754)|INCLUDE
+CR76|Crossref|2023|Construction and Building Materials|Prediction of CS and feature importance solid waste AAM (10.1016/j.conbuildmat.2023.133545)|DUPLICATE-SD60
+CR77|Crossref|2025|Materials Today Communications|ML prediction of drying shrinkage for AAM (10.1016/j.mtcomm.2025.112326)|DUPLICATE-SD112
+CR78|Crossref|2023|Construction and Building Materials|Effect of composition and curing on alkali activated fly ash-slag binders (10.1016/j.conbuildmat.2022.129940)|DUPLICATE-SD183
+CR79|Crossref|2026|Scientific Reports|ML-driven optimization of alkali-activated sustainable pavement concrete incorporating agro-industrial wastes (10.1038/s41598-026-55050-6)|INCLUDE
+CR80|Crossref|2024|Materials|Elemental Design of Alkali-Activated Materials with Solid Wastes Using ML (10.3390/ma17184573)|INCLUDE
+CR81|Crossref|2025|Asian Journal of Civil Engineering|ML modelling for strength prediction and durability of AAB with POFA and granite dust (10.1007/s42107-025-01319-6)|INCLUDE
+CR82|Crossref|2022|Chemical Physics|Interpretable hybrid ML prediction of dielectric constant of alkali halide crystals|EXCLUDE-EC2
+CR83|Crossref|2023|Case Studies in Construction Materials|Application of ML in predicting workability for AAM (10.1016/j.cscm.2023.e02173)|DUPLICATE-SD127
+CR84|Crossref|2025|Engineering Applications of Artificial Intelligence|Intelligent hybrid ML framework for CS prediction of AAB (10.1016/j.engappai.2025.110971)|DUPLICATE-SD101
+CR85|Crossref|2026|Materials|Predicting Mechanical Strength of Alkali-Activated High-Performance Concrete Using ML Methods (10.3390/ma19112235)|INCLUDE
+CR86|Crossref|2026|Case Studies in Construction Materials|Computational insights into drying shrinkage (10.1016/j.cscm.2026.e06159)|DUPLICATE-SD9
+CR87|Crossref|2025|Journal of Wuhan University of Technology-Mater Sci Ed|ML Prediction and Feature Impact Analysis of Durability Performance of Solid Waste-AAM (10.1007/s11595-025-3171-z)|INCLUDE
+CR88|Crossref|2024|Multiscale and Multidisciplinary Modeling Experiments and Design|Metaheuristic optimization of ML models for strength prediction of HP self-compacting AAS concrete (10.1007/s41939-023-00349-4)|INCLUDE
+CR89|Crossref|2021|Composites Part B|Coupling ML with thermodynamic modelling (10.1016/j.compositesb.2021.108801)|DUPLICATE-SD187
+CR90|Crossref|2021|Cement and Concrete Composites|ML to predict properties of fresh and hardened AAC (10.1016/j.cemconcomp.2020.103863)|DUPLICATE-SD199
+CR91|Crossref|2026|Research on Engineering Structures and Materials|Performance assessment of sustainable one-part AAC: experimental and ML approach (10.17515/resm2026-1531ma0224rs)|INCLUDE
+CR92|Crossref|2021|Advances in Machine Learning & AI|Ensemble ML Model for Software Defect Prediction|EXCLUDE-EC2
+CR93|Crossref|2024|Archives of Civil and Mechanical Engineering|Active learning on stacked ML techniques for predicting CS of alkali-activated UHPC (10.1007/s43452-024-01067-5)|INCLUDE
+CR94|Crossref|2025|Radiation Physics and Chemistry|Prediction of mass attenuation coefficients in mixed alkali and borosilicate glasses|EXCLUDE-EC2
+CR95|Crossref|2026|Sustainable Chemistry and Pharmacy|Sustainable alkali-activated mortars from BFS with basalt fibers (10.1016/j.scp.2026.102318)|DUPLICATE-SD94
+CR96|Crossref|2024|Engineering Applications of Artificial Intelligence|ML methods for estimating CS of HP AAC (10.1016/j.engappai.2024.109053)|DUPLICATE-SD154
+CR97|Crossref|2024|Sustainable Materials and Technologies|ML models for predicting CS of OPC concrete and AAM (10.1016/j.susmat.2024.e01191)|DUPLICATE-SD121
+CR98|Crossref|2024|Advances in Machine Learning & AI|ML for Wireless Network Throughput Prediction|EXCLUDE-EC2
+CR99|Crossref|2024|Materials|Performance Characterization and Composition Design Using ML for Slag-Desulfurization Gypsum-Based AAM (10.3390/ma17143540)|INCLUDE
+CR100|Crossref|2025|IJCNWC|A ML-BASED HOLISTIC FRAMEWORK FOR AIRFARE PRICE PREDICTION|EXCLUDE-EC2

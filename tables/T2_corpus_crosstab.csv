@@ -1,0 +1,13 @@
+Material,prediction,optimization,multi-objective-optimization,inverse-design,classification,microstructure/image-analysis,prediction+UQ,experiment-selection,Total
+fly-ash,95,50,8,2,0,4,0,0,159
+FA-slag,89,46,10,4,3,1,1,1,155
+slag,62,27,4,1,4,3,0,0,101
+metakaolin/clay,24,12,2,0,0,1,0,0,39
+red-mud,6,1,0,0,0,0,0,0,7
+tailings,4,3,0,1,0,0,0,0,8
+biomass-ash,25,6,0,0,0,2,0,0,33
+recycled-aggregate,18,4,2,2,0,2,0,0,28
+one-part,12,6,0,1,0,0,0,0,19
+stabilized-soil,31,13,1,2,0,1,0,0,48
+mixed/other-AAM,124,44,10,3,4,5,2,2,194
+# Unique studies n=677; M is multi-label so column totals exceed 677. T task labels are primary labels; the optimization label includes metaheuristically tuned predictors (see Table S9).
